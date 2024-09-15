@@ -1,0 +1,14 @@
+E:\asp.net\bin\Debug\net8.0\asp.net.exe
+E:\asp.net\bin\Debug\net8.0\asp.net.deps.json
+E:\asp.net\bin\Debug\net8.0\asp.net.runtimeconfig.json
+E:\asp.net\bin\Debug\net8.0\asp.net.dll
+E:\asp.net\bin\Debug\net8.0\asp.net.pdb
+E:\asp.net\obj\Debug\net8.0\asp.net.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\obj\Debug\net8.0\asp.net.AssemblyInfoInputs.cache
+E:\asp.net\obj\Debug\net8.0\asp.net.AssemblyInfo.cs
+E:\asp.net\obj\Debug\net8.0\asp.net.csproj.CoreCompileInputs.cache
+E:\asp.net\obj\Debug\net8.0\asp.net.dll
+E:\asp.net\obj\Debug\net8.0\refint\asp.net.dll
+E:\asp.net\obj\Debug\net8.0\asp.net.pdb
+E:\asp.net\obj\Debug\net8.0\asp.net.genruntimeconfig.cache
+E:\asp.net\obj\Debug\net8.0\ref\asp.net.dll
